@@ -1,4 +1,4 @@
-# SIMD-Evaluation
+# SIMD Library Evaluation
 ## Introduction
 This repository contains benchmarks for some of the most popular SIMD libraries available. 
 
